@@ -1,4 +1,4 @@
-# Centro de Capacitación de Azure Machine Learning
+# Applied Machine Learning
 
 Este centro de capacitación cubre Azure Machine Learning desde los fundamentos hasta las
 operaciones en producción, con fórmulas, arquitectura, guías de despliegue y referencias visuales.

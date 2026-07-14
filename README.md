@@ -1,4 +1,4 @@
-# Machine Learning 102
+# Applied Machine Learning
 
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
 [Cloud2BR TEC](https://github.com/Cloud2BR-TEC)
@@ -7,11 +7,11 @@ Last updated: 2026-07-13
 
 ----------
 
-> Machine Learning 102 is an intermediate learning path focused on Azure ML workflows beyond the basics.
+> Applied Machine Learning is an intermediate learning path focused on Azure ML workflows beyond the basics.
 
 ## Scope
 
-This repository publishes Machine Learning 102 content:
+This repository publishes Applied Machine Learning content:
 
 - Intermediate ML math and model selection depth.
 - End-to-end workflow design and optimization.

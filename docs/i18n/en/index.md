@@ -1,5 +1,5 @@
 
-# Azure Machine Learning Training Hub
+# Applied Machine Learning
 
 This training hub covers Azure Machine Learning from fundamentals to production
 operations, with formulas, architecture, deployment guidance, and visual references.
