@@ -7,9 +7,7 @@ Last updated: 2026-07-13
 
 ----------
 
-Machine Learning 102 is an intermediate learning path focused on Azure ML workflows beyond the basics.
-
-This repository follows the same GitHub Pages structure and styling used in Machine Learning 101, with a bilingual layout (English and Spanish).
+> Machine Learning 102 is an intermediate learning path focused on Azure ML workflows beyond the basics.
 
 ## Scope
 
